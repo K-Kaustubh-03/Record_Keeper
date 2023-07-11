@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Record Keeper</string>
+    <string name="running">Running</string>
+    <string name="football">Football</string>
+    <string name="running_image_description">Running Image</string>
+    <string name="five_km_heading">5km</string>
+    <string name="ten_km_heading">10km</string>
+    <string name="half_marathon_heading">Half Marathon</string>
+    <string name="full_marathon_heading">Full Marathon</string>
+    <string name="top_speed_heading">Top Speed</string>
+    <string name="most_goals_heading">Most Goals</string>
+    <string name="longest_goal_heading">Longest Goal</string>
+    <string name="reset_running_records">Reset Running Records</string>
+    <string name="reset_football_records">Reset Football Records</string>
+    <string name="reset_all_records">Reset All Records</string>
+    <string name="record_field_hint">Record</string>
+    <string name="date_field_hint">Date</string>
+    <string name="save_button_text">Save</string>
+    <string name="clear_record_button_text">Clear Record</string>
+</resources>
